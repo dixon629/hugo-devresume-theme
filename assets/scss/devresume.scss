@@ -136,6 +136,7 @@ a.resume-link {
 
 .resume-profile-image {
 	max-width: 120px;
+	border-radius : 5rem !important;
 }
 
 .resume-intro {
@@ -152,6 +153,9 @@ a.resume-link {
    .item-content {
 		font-size: 0.875rem;
 	}
+}
+.resume-summary{
+	
 }
 
 .resume-aside {
